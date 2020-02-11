@@ -1,1 +1,3 @@
-<img src="https://cdn.images.express.co.uk/img/dynamic/109/590x/111-day-571716.jpg"/>
+If you want to embed images, this is how you do it:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
