@@ -1,3 +1,3 @@
-If you want to embed images, this is how you do it:
+Welcome to our Cardano Staking Pool home page (under construction):
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of 111 Logo](https://github.com/cardadad/111pool/blob/master/oneoneonelogo.jpg)
